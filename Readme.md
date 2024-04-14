@@ -1,4 +1,4 @@
-# YouTube Video Commenter
+# YouTube Video 1st-like-1st-comment
 
 This Python script allows you to automatically comment on and like the latest video uploaded by a YouTube channel. It uses the YouTube Data API to monitor the channel for new uploads and interact with the videos.
 
